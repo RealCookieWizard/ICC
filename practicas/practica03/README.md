@@ -1,6 +1,6 @@
-Descarga el archivo Main.java
+Descarga todos los archivos manteniendo la estructura
 
-Pon el archivo Main.java en una carpeta y ejecuta cmd desde esa carpeta
+Pon los archivos en una carpeta y ejecuta cmd desde esa carpeta
 
 Luego ejecuta:
 

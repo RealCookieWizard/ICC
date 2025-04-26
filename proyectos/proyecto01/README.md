@@ -4,6 +4,6 @@ Pon los archivos en una carpeta llamada EjecutarJava y dentro de esta carpeta cr
 
 Luego ejecuta:
 
-javac Recipiente*.java
+javac Recipiente\*.java
 
 java Recipiente.Main

@@ -4,6 +4,6 @@ Pon los archivos en una carpeta llamada EjecutarJava y dentro de esta carpeta cr
 
 Luego ejecuta:
 
-javac ListaLigada\*.java
+javac ListaLigada\\*.java
 
 java ListaLigada.Main
